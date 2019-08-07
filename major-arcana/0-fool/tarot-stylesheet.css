@@ -1,0 +1,19 @@
+head {
+  border-style: dashed;
+}
+
+body {
+  border-style: double;
+}
+
+h1 {
+  border-style: groove;
+}
+
+div {
+  border-style: dotted;
+}
+
+p {
+  border-style: solid;
+}
